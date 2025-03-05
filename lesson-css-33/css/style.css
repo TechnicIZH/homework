@@ -1,0 +1,37 @@
+.some-text {
+    font-family: "Montserrat", "Arial", sans-serif;
+    font-size: 40px;
+    line-height: 60px;
+    text-align: justify;
+    font-weight: 700;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: red;
+    text-decoration-thickness:2px;
+    letter-spacing:15px
+}
+
+.some-tex1 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 300;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    text-decoration-thickness:2px;
+}
+
+.some-tex2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+    font-weight: 600;
+    font-style: italic;
+    text-decoration:  line-through;
+    word-spacing: 30px;
+}
